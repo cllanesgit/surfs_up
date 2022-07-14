@@ -6,7 +6,7 @@ In this analysis we look into the temperatures for the month of June and Decembe
 
 ![image](https://user-images.githubusercontent.com/104467610/178868326-93a94fd4-99a2-4932-9ab4-c07ddd7e4e17.png)
 
-*In December we see a mean temperature of aprox. 71 degrees with a max of 83 which are similar temperatures to June. However, the minimum is 56 which is lower than June.
+* In December we see a mean temperature of aprox. 71 degrees with a max of 83 which are similar temperatures to June. However, the minimum is 56 which is lower than June.
 
 ![image](https://user-images.githubusercontent.com/104467610/178868774-60427be7-f939-4a38-8e7d-f431f163bcab.png)
 
