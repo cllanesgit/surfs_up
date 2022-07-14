@@ -11,4 +11,5 @@ In this analysis we look into the temperatures for the month of June and Decembe
 ![image](https://user-images.githubusercontent.com/104467610/178868774-60427be7-f939-4a38-8e7d-f431f163bcab.png)
 
 #Summary
+
 This data should provide a good idea as to what the temperatures will be for both months, half-way and at the end of the year. However, extra data could be pulled in new queries in regards to the months of January and February which tend to be cold, if not colder than December, to make sure that the business stays relevant through that period. Regardless, data shows that is has a strong base to succeed under the provided temperatures. 
